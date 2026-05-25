@@ -1,4 +1,4 @@
-# Team-Project-352
+# Team Project 
 Alpha Mini Robot
 
 Group Members
