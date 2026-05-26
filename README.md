@@ -1,4 +1,4 @@
-# Team Project 
+# Team Project G1
 Alpha Mini Robot
 
 Group Members
@@ -9,3 +9,4 @@ Min Hein Khant (Member)
 
 Dominick (Member) 
 
+ThiriThu (Member)
